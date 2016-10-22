@@ -43,9 +43,8 @@ STDIN
 ```
 `URL :` http://ideone.com/cVuIXb
 
-4 ) Implement Maxheap using Priority Queue of STL. You program should support following functions
-    - Add New \
-    - Extract Max Element\
+4 ) Implement Maxheap using Priority Queue of STL. You program should support following functions: Add New Element and Extract Max Element.
+
 `URL :` http://ideone.com/PWJj2d
 
 5 ) Write a program to evaluate given postorder expression using stack. Assume Expression has only one digit numbers.
@@ -62,6 +61,8 @@ STDOUT
 `URL :`  http://ideone.com/9smiFd
 
 
-For any doubts/problem, you can send whatsapp or facebook message.\
-Mobile : +91-9777002402\
+For any doubts/problem, you can send whatsapp or facebook message.
+
+Mobile : +91-9777002402
+
 FB : https://www.facebook.com/anubhav.choudhary7
