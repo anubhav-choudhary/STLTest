@@ -10,18 +10,18 @@ Duration : 1 hr
 * Complete the code according to the question and "Run" it .
 * Share the generated public link of your code using google form given below.
 
-`SUBMITTION URL :` http://
+`SUBMISSION URL :` https://goo.gl/forms/2GFZ1ORmy55SE5bb2
 
-Submittions after `9.00 PM` will not be considered.
+Submission after `9.00 PM` will not be considered.
 
-Questions are easy. If you dont know the answers, you should learn it first. Don't do copy paste thing from the internet.
+Questions are easy. If you don't know the answers, you should learn it first. Don't do copy paste thing from the internet.
 
 ### Questions
-1 ) Write one line code to create Vector of Vector<int>  with dimention 10x20 and initial value as -1.
+1 ) Write one line code to create Vector of Vector<int>  with dimension 10x20 and initial value as -1.
 
 `URL :` http://ideone.com/FOVPPY
 
-2 ) Write a program to find total number of unique charaters in a given input string.
+2 ) Write a program to find total number of unique characters in a given input string.
 
 STDIN
 ```
